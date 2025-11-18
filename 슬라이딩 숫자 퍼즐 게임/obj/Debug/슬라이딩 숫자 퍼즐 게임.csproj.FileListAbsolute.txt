@@ -1,0 +1,64 @@
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.exe.config
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.exe
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.pdb
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.AssemblyReference.cache
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.FRank.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Properties.Resources.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.GenerateResource.cache
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.CoreCompileInputs.cache
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.exe
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.pdb
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay1.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay2.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay3.resources
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.exe.config
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.exe
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.pdb
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.AssemblyReference.cache
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.FRank.resources
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay1.resources
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay2.resources
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay3.resources
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Properties.Resources.resources
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.GenerateResource.cache
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.CoreCompileInputs.cache
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.exe
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.pdb
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Certification.resources
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.NewRank.resources
+C:\Users\am077\Desktop\비주얼 프로그래밍\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Front.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Certification.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Front.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.NewRank.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.exe.config
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.exe
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.pdb
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.AssemblyReference.cache
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Certification.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Front.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.FRank.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay1.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay2.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay3.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.NewRank.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Properties.Resources.resources
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.GenerateResource.cache
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.CoreCompileInputs.cache
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.exe
+C:\Users\am077\Desktop\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.pdb
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.exe.config
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.exe
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\bin\Debug\슬라이딩 숫자 퍼즐 게임.pdb
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.AssemblyReference.cache
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Certification.resources
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Front.resources
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.FRank.resources
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay1.resources
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay2.resources
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.GamePlay3.resources
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.NewRank.resources
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩_숫자_퍼즐_게임.Properties.Resources.resources
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.GenerateResource.cache
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.csproj.CoreCompileInputs.cache
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.exe
+D:\바탕화면\슬라이딩 숫자 퍼즐 게임_코드 축소판\슬라이딩 숫자 퍼즐 게임\obj\Debug\슬라이딩 숫자 퍼즐 게임.pdb

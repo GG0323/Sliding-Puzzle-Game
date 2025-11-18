@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1CE55461-B086-4DD7-8FC1-09D12617A21C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>슬라이딩_숫자_퍼즐_게임</RootNamespace>
+    <AssemblyName>슬라이딩 숫자 퍼즐 게임</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Certification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Certification.Designer.cs">
+      <DependentUpon>Certification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Front.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Front.Designer.cs">
+      <DependentUpon>Front.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRank.Designer.cs">
+      <DependentUpon>FRank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GamePlay1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GamePlay1.Designer.cs">
+      <DependentUpon>GamePlay1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GamePlay2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GamePlay2.Designer.cs">
+      <DependentUpon>GamePlay2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GamePlay3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GamePlay3.Designer.cs">
+      <DependentUpon>GamePlay3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewRank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewRank.Designer.cs">
+      <DependentUpon>NewRank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nostalgia.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Certification.resx">
+      <DependentUpon>Certification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Front.resx">
+      <DependentUpon>Front.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRank.resx">
+      <DependentUpon>FRank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GamePlay1.resx">
+      <DependentUpon>GamePlay1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GamePlay2.resx">
+      <DependentUpon>GamePlay2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GamePlay3.resx">
+      <DependentUpon>GamePlay3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewRank.resx">
+      <DependentUpon>NewRank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rank.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blueCloud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cloud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DropStar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NightSky.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StarSky.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StarSky1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SimpleSpace.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SmileStar.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
