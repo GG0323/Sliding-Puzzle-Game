@@ -20,7 +20,7 @@
 
 ### 게임 시작
 - 별 버튼을 누르면 숫자가 랜덤으로 섞이고 타이머가 흘러갑니다.<br><br>
-<img width="300" src="https://github.com/user-attachments/assets/64761738-f3a7-47f4-a677-24cecafdf14c" />
+<img width="400" src="https://github.com/user-attachments/assets/64761738-f3a7-47f4-a677-24cecafdf14c" /><br>
 <img width="300" src="https://github.com/user-attachments/assets/ea08e252-f933-4c25-9915-757fe3456df1" />
 <img width="300" src="https://github.com/user-attachments/assets/d3eb2aae-c2f1-453b-af9f-8ffd05108843" />
 <br><br>
@@ -30,13 +30,13 @@
 - 1~5위 순위권에 안에 들었을 때   
   - 닉네임과 비밀번호를 입력받아 파일에 저장됩니다.   
   - 닉네임은 중복을 허용하지 않습니다.<br><br>
-<img width="300" alt="{53FE33FD-003C-4E14-B269-24237B04CA65}" src="https://github.com/user-attachments/assets/77f0e0bd-5b2b-4b7a-a48b-70d2aeb5caf2" /><br>
+<img width="400" alt="{53FE33FD-003C-4E14-B269-24237B04CA65}" src="https://github.com/user-attachments/assets/77f0e0bd-5b2b-4b7a-a48b-70d2aeb5caf2" /><br>
 <img height="230" alt="{24C8D2D8-5A42-429B-9066-B41ECEB6EE06}" src="https://github.com/user-attachments/assets/aad07950-5054-45a7-99f5-0da3c8e18d2e" />
 <img height="230" alt="{98CAF18E-4733-44E0-862B-70D832EA2AEB}" src="https://github.com/user-attachments/assets/0564300e-734b-4160-9952-da9891a80627" />
 <br><br>
 
 - 순위권에 못 들었을 때<br><br>
-  <img width="300"  alt="{69CBE5CC-4658-4166-8B40-D3B3DB3BCB4C}" src="https://github.com/user-attachments/assets/5b16eba5-e0a3-422c-ab4d-a722cf4f483f" />
+  <img width="400"  alt="{69CBE5CC-4658-4166-8B40-D3B3DB3BCB4C}" src="https://github.com/user-attachments/assets/5b16eba5-e0a3-422c-ab4d-a722cf4f483f" />
 <br><br>
 ---
 
